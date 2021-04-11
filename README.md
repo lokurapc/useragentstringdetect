@@ -1,3 +1,3 @@
 # useragentstringdetect
-Detect user operative system and web browser
+Detect user operative system and web browser (PHP)
 
